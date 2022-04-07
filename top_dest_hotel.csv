@@ -1,0 +1,17 @@
+destination,city,score,hotel_star,no_inclv_hotel
+United Arab Emirates,Dubai,9,5,1642
+United Kingdom,London,10,4,8758
+Mexico,Cancun,8,4,1573
+Indonesia,Bali,9,5,9820
+Greece,Crete,8,3,2582
+Italy,Rome,7,3,6199
+Mexico,Cabo San Lucas,7,3,940
+Turkey,Istanbul,6,3,4358
+France,Paris,8,4,8203
+Egypt,Hurghada,5,2,1015
+Spain,Barcelona,7,3,5037
+Morocco,Marrakech,7,4,3358
+Thailand,Bangkok,8,5,3591
+India,New Delhi,7,3,2979
+Singapore,Singapore,8,5,3199
+Not recommend,0,0,0,0
